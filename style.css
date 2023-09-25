@@ -1,0 +1,39 @@
+body {
+    background-color: aliceblue;
+}
+h1 {
+    color: salmon;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding-top: 5px;
+}
+h2 {
+    color: lightskyblue;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 30px;
+}
+
+
+button {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 30px;
+    padding-right: 30px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 20px;
+    background-color: aquamarine;
+    color: rgb(202, 130, 23)
+}
+h6 {
+    color: lightskyblue;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+}
+p {
+    color: lightskyblue;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+}
+button:hover {
+    opacity: 80%;
+    background-color: orange;
+}
