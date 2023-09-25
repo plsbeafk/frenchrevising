@@ -42,8 +42,8 @@ button:hover {
     height: 200px;
     position: relative;
 }
-button {
+    button {
     position: absolute;
     left: 50%;
     transform: translateX(-50%);
-}
+    }
