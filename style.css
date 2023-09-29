@@ -6,22 +6,7 @@ body {
 }
 
 
-button {
-    padding-top: 10px;
-    padding-bottom: 10px;
-    padding-left: 30px;
-    padding-right: 30px;
-    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    font-size: 20px;
-    background-color: aquamarine;
-    color: rgb(202, 130, 23)
-}
 
-
-button:hover {
-    opacity: 80%;
-    background-color: orange;
-}
 #games {
     display: flex;
     flex-wrap: wrap;
