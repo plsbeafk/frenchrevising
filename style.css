@@ -1,16 +1,7 @@
 body {
     background-color: aliceblue;
 }
-h1 {
-    color: salmon;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    padding-top: 5px;
-}
-h2 {
-    color: lightskyblue;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    font-size: 30px;
-}
+
 
 
 button {
