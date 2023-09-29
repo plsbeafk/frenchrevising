@@ -14,16 +14,8 @@ button {
     background-color: aquamarine;
     color: rgb(202, 130, 23)
 }
-h6 {
-    color: lightskyblue;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    font-size: 20px;
-}
-p {
-    color: lightskyblue;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    font-size: 20px;
-}
+
+
 button:hover {
     opacity: 80%;
     background-color: orange;
