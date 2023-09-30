@@ -158,14 +158,14 @@ nav h1 {
     width: 26vw;
 }
 
-.featured a {
+.games a {
     display: inline-block;
     position: relative;
     color: #2c7ffc;
     text-decoration: none;
 }
     
-    .featured .play-button {
+    .games .play-button {
     position: absolute;
     top: 50%;
     left: 50%;
@@ -174,12 +174,12 @@ nav h1 {
     transition: opacity 0.2s;
     }
     
-    .featured a:hover .play-button {
+    .games a:hover .play-button {
     opacity: 1;
     pointer-events: none;
     }
     
-    .featured .play-button i {
+    .games .play-button i {
     font-size: 5vw;
     text-shadow: 0 0 100px #2c7ffc;
     }
