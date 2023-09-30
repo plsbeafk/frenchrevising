@@ -142,7 +142,7 @@ nav h1 {
 .games a {
     display: inline-block;
     position: relative;
-    color: #2c7ffc;
+    color: #fc2ccb;
     text-decoration: none;
 }
     
@@ -162,7 +162,7 @@ nav h1 {
     
     .games .play-button i {
     font-size: 5vw;
-    text-shadow: 0 0 100px #2c7ffc;
+    text-shadow: 0 0 100px #fc2ccb;
     }
 #gamecategories {
     display: flex;
