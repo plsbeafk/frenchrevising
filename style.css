@@ -91,29 +91,9 @@ nav h1 {
     transition: .3s all ease;
 }
  
-#games {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
-    margin-top: .6vw;
-    padding-bottom: 5vw;
 
-}
- 
-#games img {    height: 15.6vw;
-    width: 15.6vw;
-    border-radius: 1vw;
-    margin: .5vw;
-    cursor: pointer;
-    user-select: none;
-    transition: transform .2s;
-}
- 
-#games img:hover {
-    transform: scale(1.01);
-}
 
-.featured {
+.games {
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
@@ -123,7 +103,7 @@ nav h1 {
     margin-top: 6vw;
 }
 
-.featured h1 {
+.games h1 {
     font-size: 3.5vw;
     font-weight: 700;
     margin: 1vw 1vw .4vw 1vw;
@@ -132,12 +112,9 @@ nav h1 {
     color: #fff;
 }
 
-.featured .column {
-    display: flex;
-    flex-direction: column;
-}
 
-.featured img {
+
+.games img {
     height: 12.5vw;
     width: 12.5vw;
     border-radius: 1vw;
@@ -147,13 +124,13 @@ nav h1 {
     transition: all .2s;
 }
 
-.featured img:hover {
+.games img:hover {
     transform: scale(1.02);
     filter: brightness(50%);
 }
 
 
-.featured .row img {
+.games .row img {
     height: 26vw;
     width: 26vw;
 }
