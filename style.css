@@ -185,3 +185,7 @@ nav h1 {
 #gamecategories img:hover {
     transform: scale(1.02);
 }
+button {
+font-family: 'Montserrat', sans-serif;
+font-size: 15px;
+}
