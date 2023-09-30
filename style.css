@@ -183,3 +183,24 @@ nav h1 {
     font-size: 5vw;
     text-shadow: 0 0 100px #2c7ffc;
     }
+#gamecategories {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-top: .6vw;
+    padding-bottom: 5vw;
+
+}
+ 
+#gamecategories img {    height: 15.6vw;
+    width: 15.6vw;
+    border-radius: 1vw;
+    margin: .5vw;
+    cursor: pointer;
+    user-select: none;
+    transition: transform .2s;
+}
+ 
+#gamecategories img:hover {
+    transform: scale(1.01);
+}
