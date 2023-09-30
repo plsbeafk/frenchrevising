@@ -111,6 +111,10 @@ nav h1 {
     text-align: left;
     color: #fff;
 }
+.games .column {
+    display: flex;
+    flex-direction: column;
+}
 
 
 
