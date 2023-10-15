@@ -1,0 +1,34 @@
+User-agent: *
+Disallow: /privacypolicy
+Disallow: /games/
+Allow: /games/motox3m
+Allow: /games/motox3m2
+Allow: /games/motox3m3
+Allow: /games/motox3mwinter
+Allow: /games/motox3mpoolparty
+Allow: /games/motox3mspookyland
+Allow: /games/pokemonred
+Allow: /games/pokemonruby
+Allow: /games/ageofwar
+Allow: /games/bitlife
+Allow: /games/cookieclicker
+Allow: /games/fireboyandwatergirl1
+Allow: /games/fireboyandwatergirl2
+Allow: /games/fireboyandwatergirl3
+Allow: /games/fireboyandwatergirl4
+Allow: /games/fireboyandwatergirl5
+Allow: /games/fireboyandwatergirl6
+Disallow: /style.css
+Disallow: /script.js
+Disallow: /ads.txt
+Disallow: /games/style.css
+Disallow: /404style.css
+Allow: /2-player-games
+Allow: /simulator-games
+Allow: /casual-games
+Allow: /bike-games
+
+
+
+
+Sitemap: https://www.frenchrevising.com/sitemap.xml
