@@ -27,7 +27,7 @@ Allow: /2-player-games
 Allow: /simulator-games
 Allow: /casual-games
 Allow: /bike-games
-
+Disallow: /images/
 
 
 
