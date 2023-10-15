@@ -18,11 +18,8 @@ Allow: /games/fireboyandwatergirl3
 Allow: /games/fireboyandwatergirl4
 Allow: /games/fireboyandwatergirl5
 Allow: /games/fireboyandwatergirl6
-Disallow: /style.css
-Disallow: /script.js
-Disallow: /ads.txt
-Disallow: /games/style.css
-Disallow: /404style.css
+
+
 Allow: /2-player-games
 Allow: /simulator-games
 Allow: /casual-games
